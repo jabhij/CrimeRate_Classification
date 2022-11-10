@@ -12,8 +12,7 @@ We will try different sets of models to check the crime rate and compare their a
 
 
 ## References:
-1. https://www.kaggle.com/datasets/kaggle/san-francisco-crime-classification
-2. https://www.researchgate.net/publication/347219439_Crime_Rate_Prediction_Using_Ma
-chine_Learning_and_Data_Mining
-3. https://ieeexplore.ieee.org/document/9170731
-4. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8529125/
+1. [Kaggle](https://www.kaggle.com/datasets/kaggle/san-francisco-crime-classification)
+2. [Researchgate](https://www.researchgate.net/publication/347219439_Crime_Rate_Prediction_Using_Machine_Learning_and_Data_Mining)
+3. [IEEE Explore](https://ieeexplore.ieee.org/document/9170731)
+4. [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8529125/)
