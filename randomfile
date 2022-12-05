@@ -1,8 +1,4 @@
 
   cqlsh> use A20380004> source './ex3.cql';
   cqlsh:a20380004> select * from Music;
-  
-  artistname      albumname      cost   numbersold
-  --------------+--------------+------+--------------
-  
-  
+   
