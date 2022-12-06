@@ -1,5 +1,24 @@
 true
-assignment> load('./ex1.js');
+assignment> load('./ex5.js');
+true
+{
+  _id: ObjectId("638a855b358a0ba86e109270")
+  name: 'Horny',
+  dob: ISODate("1992-03-13T13:47:00.000Z"),
+  loves: ['carrot', 'papaya'],
+  weight: 600,
+  gender: 'm',
+  vampires: 63
+}
+{
+  _id: ObjectId("638a855b358a0ba86e109271")
+  name: 'Aurora',
+  dob: ISODate("1991-01-24T19:00:00.000Z"),
+  loves: ['carrot', 'grape'],
+  weight: 450,
+  gender: 'f',
+  vampires: 43
+}
 {
   _id: ObjectId("638a855b358a0ba86e109273")
   name: 'Roooooodles',
@@ -28,23 +47,17 @@ assignment> load('./ex1.js');
   vampires: 2
 }
 {
-  _id: ObjectId("638a855b358a0ba86e109278")
-  name: 'Leia',
-  dob: ISODate("2001-10-08T19:53:00.000Z"),
-  loves: ['apple', 'watermelon'],
-  weight: 601,
+  _id: ObjectId("638a855b358a0ba86e10927a")
+  name: 'Nimue',
+  dob: ISODate("1999-12-20T22:15:00.000Z"),
+  loves: ['grape', 'carrot'],
+  weight: 540,
   gender: 'f',
-  vampires: 33
 }
-{
-  _id: ObjectId("638a855b358a0ba86e109274")
-  name: 'Pilot',
-  dob: ISODate("1985-07-04T07:01:00.000Z"),
-  loves: ['apple', 'watermelon'],
-  weight: 650,
-  gender: 'm',
-  vampires: 54
-}
+
+
+
+
 true
 assignment> load('./temp.js');
 {
@@ -59,6 +72,7 @@ assignment> load('./temp.js');
 }
 
 ---
+
 assignment> load('./ex4.js');
 DepricationWarning: Collection.Update() is deprecated. Use updateOne, updateMany, or bulkWrite.
 true
