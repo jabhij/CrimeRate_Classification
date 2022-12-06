@@ -1,0 +1,62 @@
+true
+assignment> load('./ex1.js');
+{
+  _id: ObjectId("638a855b358a0ba86e109273")
+  name: 'Roooooodles',
+  dob: ISODate("1979-08-18T23:44:00.000Z"),
+  loves: ['apple'],
+  weight: 575,
+  gender: 'm',
+  vampires: 99
+}
+{
+  _id: ObjectId("638a855b358a0ba86e109274")
+  name: 'Solnara',
+  dob: ISODate("1985-07-04T07:01:00.000Z"),
+  loves: ['apple', 'carrot', 'chocolate'],
+  weight: 550,
+  gender: 'f',
+  vampires: 80
+}
+{
+  _id: ObjectId("638a855b358a0ba86e109277")
+  name: 'Raleigh',
+  dob: ISODate("2005-05-03T05:57:00.000Z"),
+  loves: ['apple', 'sugar'],
+  weight: 421,
+  gender: 'm',
+  vampires: 2
+}
+{
+  _id: ObjectId("638a855b358a0ba86e109278")
+  name: 'Leia',
+  dob: ISODate("2001-10-08T19:53:00.000Z"),
+  loves: ['apple', 'watermelon'],
+  weight: 601,
+  gender: 'f',
+  vampires: 33
+}
+{
+  _id: ObjectId("638a855b358a0ba86e109274")
+  name: 'Pilot',
+  dob: ISODate("1985-07-04T07:01:00.000Z"),
+  loves: ['apple', 'watermelon'],
+  weight: 650,
+  gender: 'm',
+  vampires: 54
+}
+true
+assignment> load('./temp.js');
+{
+  _id: ObjectId("638a855b358a0ba86e10927d")
+  name: 'Malini',
+  dob: ISODate("2008-11-03T06:00:00.000Z"),
+  loves: ['pears', 'grapes', 'apricots'],
+  weight: 450,
+  gender: 'f',
+  vampires: 23,
+  horns: 1
+}
+
+
+
