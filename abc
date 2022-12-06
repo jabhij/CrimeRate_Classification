@@ -58,5 +58,30 @@ assignment> load('./temp.js');
   horns: 1
 }
 
+---
+assignment> load('./ex4.js');
+DepricationWarning: Collection.Update() is deprecated. Use updateOne, updateMany, or bulkWrite.
+true
+{
+  _id: ObjectId("638a855b358a0ba86e109271")
+  name: 'Aurora',
+  dob: ISODate("1991-01-24T19:00:00.000Z"),
+  loves: ['carrot', 'grape'],
+  weight: 450,
+  gender: 'f',
+  vampires: 43
+}
+{
+  _id: ObjectId("638a855b358a0ba86e109278")
+  name: 'Leia',
+  dob: ISODate("2001-10-08T19:53:00.000Z"),
+  loves: ['apple', 'watermelon'],
+  weight: 601,
+  gender: 'f',
+  vampires: 33
+}
+true
+
+
 
 
