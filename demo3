@@ -2,7 +2,7 @@ test> use assignment
 switched to db assignment
 assignment>
 
-assignment> load('./load.js')
+assignment> load('./load.js');
 DepricationWarning: Collection.Update() is deprecated. Use updateOne, updateMany, or bulkWrite.
 true
 assignment>
@@ -63,3 +63,9 @@ assignment> db.unicorns.find();
     gender: 'f',
     vampires: 44
   }
+  
+  
+assignment> load('./demo.js');
+true
+assignment> 
+
