@@ -9,6 +9,8 @@ There can be numerous approaches to solving this problem. Out of all those appro
 ## Project Goals:
 We will try different sets of models to check the crime rate and compare their accuracy. This comparative analysis would help us know which model would be the best for this kind of dataset and problem.
 
+## Code
+[Collab](https://colab.research.google.com/drive/1ew6OAE3kJWV5luhrI9SNsDve0AA2hWqd#scrollTo=mGNMo7OqqxRK)
 
 ## References:
 1. [Kaggle](https://www.kaggle.com/datasets/kaggle/san-francisco-crime-classification)
