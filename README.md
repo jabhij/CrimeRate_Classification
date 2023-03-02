@@ -9,7 +9,7 @@ There can be numerous approaches to solving this problem. Out of all those appro
 ## Project Goals:
 We will try different sets of models to check the crime rate and compare their accuracy. This comparative analysis would help us know which model would be the best for this kind of dataset and problem.
 
-## Code
+## Code:
 [Google Collab](https://colab.research.google.com/drive/1juxysO6SyHM7lboyeWRnWpcn7DUcwPKv#scrollTo=NWvnz9iqFETy)
 
 ## References:
