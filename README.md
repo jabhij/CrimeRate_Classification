@@ -18,7 +18,7 @@ We will try different sets of models to check the crime rate and compare their a
 3. [IEEE Explore](https://ieeexplore.ieee.org/document/9170731)
 4. [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8529125/)
 
-### Catch me
+## Catch me
 For any query, ping me on 
 - LinkedIn: [@jabhij](https://www.linkedin.com/in/jabhij/)
 - Twitter: [@jabhij](https://twitter.com/jabhij)
