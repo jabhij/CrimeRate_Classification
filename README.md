@@ -17,3 +17,11 @@ We will try different sets of models to check the crime rate and compare their a
 2. [Researchgate](https://www.researchgate.net/publication/347219439_Crime_Rate_Prediction_Using_Machine_Learning_and_Data_Mining)
 3. [IEEE Explore](https://ieeexplore.ieee.org/document/9170731)
 4. [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8529125/)
+
+### Catch me
+For any query, ping me on 
+- LinkedIn: [@jabhij](https://www.linkedin.com/in/jabhij/)
+- Twitter: [@jabhij](https://twitter.com/jabhij)
+- Web: [LetUsTweak](http://letustweak.com)
+
+Hope, it helps!! ヅ
